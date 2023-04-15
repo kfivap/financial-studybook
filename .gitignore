@@ -1,0 +1,16 @@
+# Python-specific
+*.pyc
+__pycache__/
+*.egg-info/
+dist/
+build/
+.vscode/
+.idea/
+*.log
+
+# Pandas-specific
+*.csv
+*.xlsx
+*.xls
+
+.ipynb_checkpoints

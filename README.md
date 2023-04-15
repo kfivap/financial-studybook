@@ -1,0 +1,4 @@
+start
+```bash
+jupyter-lab
+```
