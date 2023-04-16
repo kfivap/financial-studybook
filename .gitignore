@@ -9,7 +9,6 @@ build/
 *.log
 
 # Pandas-specific
-*.csv
 *.xlsx
 *.xls
 
