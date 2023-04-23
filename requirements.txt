@@ -3,3 +3,4 @@ mplfinance
 pandas
 matplotlib
 numpy
+ta
